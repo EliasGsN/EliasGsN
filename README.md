@@ -27,3 +27,6 @@
   ![Snake animation](https://github.com/EliasGsN/EliasGsN/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+  
+  
+   [![e](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/490587376259694592) 
