@@ -2,10 +2,14 @@
 ### Olá! Eu sou o Elias Gabriel 🖖
 
 <div>
+  
+ <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasgsn&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasgsn&layout=compact)](https://github.com/eliasgsn/github-readme-stats) -->
+  
    <a href="https://github.com/EliasGsN">
-   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=EliasGsN&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/> <br>
-   <img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGsN&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=EliasGsN&show_icons=true&theme=radical"/> <br>
+   <img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGsN&layout=compact&langs_count=6&theme=radical"/> 
+</div> 
 
 <div style="display: inline_block"><br>
 
