@@ -7,7 +7,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasgsn&layout=compact)](https://github.com/eliasgsn/github-readme-stats) -->
   
    <a href="https://github.com/EliasGsN">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EliasGsN&show_icons=true&theme=radical"/>
+   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=EliasGsN&show_icons=true&theme=radical"/>
    <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGsN&layout=compact&langs_count=6&theme=radical"/> 
 </div> 
 
