@@ -33,10 +33,12 @@
  </div>
 
 
-### GitHub Activity
+<div align="center"><br>
 
-![snake gif](https://github.com/EliasGsN/EliasGsN/blob/output/github-contribution-grid-snake.gif)
-  
+  ![Snake animation](https://github.com/EliasGsN/EliasGsN/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
   ## Meus contatos
  
 <div align="center"> 
