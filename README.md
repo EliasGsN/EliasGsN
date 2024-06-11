@@ -31,8 +31,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
  </div>
-  
- 
+
+
+### GitHub Activity
+
+![Snake animation](https://github.com/EliasGsN/EliasGsN/blob/output/github-contribution-grid-snake.svg)
   
   ## Meus contatos
  
