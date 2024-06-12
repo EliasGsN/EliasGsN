@@ -10,10 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3  # Atualizado para v3
+      - name: Check out the repository
+        uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3.0.0  # Usando a versão mais recente
         with:
           github_user_name: EliasGsN
           gif_out_path: dist/github-contribution-grid-snake.gif
@@ -25,12 +26,12 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
           git commit -m "Generate snake animation"
-          git push origin output --force
+          git push origin +HEAD:refs/heads/output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.0.0  # Atualizado para v3
+        uses: crazy-max/ghaction-github-pages@v3.0.0
         with:
           target_branch: output
           build_dir: dist
