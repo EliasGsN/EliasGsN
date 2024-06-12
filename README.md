@@ -31,11 +31,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
  </div>
-<div align="center"><br>
 
   ![snake gif](https://github.com/EliasGsN/EliasGsN/blob/output/github-contribution-grid-snake.gif)
-
-</div>
+  
   ## Meus contatos
  
 <div align="center"> 
