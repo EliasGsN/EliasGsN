@@ -13,12 +13,12 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Adicionado token para autenticação
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: '20'  # Configurado para usar Node.js 20
+          node-version: '20'  # Atualizado para usar Node.js 20
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3.0.0
