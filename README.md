@@ -31,7 +31,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
  </div>
+<div align="center"><br>
 
+  ![Snake animation](https://github.com/EliasGsN/EliasGsN/blob/output/github-contribution-grid-snake.svg)
+
+</div>
   ## Meus contatos
  
 <div align="center"> 
