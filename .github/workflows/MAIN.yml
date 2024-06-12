@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Check out the repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2  # Atualizado para v2
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3.0.0
