@@ -1,7 +1,7 @@
   
 ## Olá! Eu sou o Elias Gabriel 🖖
 
-</br>
+<!-- </br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -42,5 +42,5 @@
  <!-- Gmail --><a href = "mailto:gabrielsilva20012005.eg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
  
-</div>
+</div> -->
 
